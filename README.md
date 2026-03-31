@@ -13,12 +13,6 @@ I build modern web applications with a focus on performance, usability, and real
 
 ---
 
-### 🚀 Featured Projects
-* **[OptiFlow Solutions](https://github.com/tanvirhossain904/OptiFlow-Solutions)** – Enterprise-grade management platform.
-* **[TanvirH.com](https://tanvirh.com)** – Personal portfolio and digital marketing hub.
-
----
-
 ### 📫 Connect with Me
 * **Website:** [TanvirH.com](https://tanvirh.com)
 * **Location:** Dhaka, Bangladesh
